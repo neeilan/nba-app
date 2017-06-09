@@ -1,0 +1,19 @@
+{
+  "name": "gamethread",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "neeilan",
+  "license": "ISC",
+  "dependencies": {
+    "big-integer": "^1.6.16",
+    "firebase": "^3.5.0",
+    "moment": "^2.15.1",
+    "node-fetch": "^1.6.3",
+    "node-schedule": "^1.2.0",
+    "twitter": "^1.4.0"
+  }
+}
